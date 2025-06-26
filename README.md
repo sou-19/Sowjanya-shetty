@@ -28,7 +28,7 @@
 
 ## 💡 Fun Quote
 
-> *"I'll solve problems using the power I've been given. This is the new world of code."*
+> *"I'll solve problems using the power I've been given. This is the new world of exploring and learning."*
 
 ---
 
