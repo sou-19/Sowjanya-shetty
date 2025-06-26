@@ -3,12 +3,12 @@
 
 ---
 
-<img align="right" alt="coding" width="300" src="https://i.pinimg.com/originals/f1/e7/34/f1e734f9cade86fe737a9aa404ad5677.gif">
+<img align="right" alt="coding" width="300" src="https://your-image-url.gif">
 
 - 🔭 I’m currently working on **Flutter + Firebase Projects**
 - 🌱 I’m currently learning **Backend development & AI concepts**
 - 💬 Ask me about **Flutter, Firebase, Java, Spring Boot**
-- 📫 How to reach me: **your.email@example.com**
+- 📫 How to reach me: **shettysoujanya9@gmail.com **
 - ⚡ Fun fact: I love turning ideas into apps!
 
 ---
