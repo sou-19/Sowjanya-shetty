@@ -8,7 +8,7 @@
 ---
 
 🌟 I'm an aspiring developer with a passion for exploring technologies and building cool projects.  
-🎯 Currently diving deep into Flutter, Firebase, Java, and AI-powered applications.
+🎯 Currently diving deep into Flutter, Firebase, Java, and AI-powered tools.
 
 ---
 
