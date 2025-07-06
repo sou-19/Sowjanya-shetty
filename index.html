@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="diary.css">
+    
+</head>
+<body>
+    <div id="root"></div>
+    <div class="login-container">
+        <h1>LOGIN TO DIARY</h1>
+        <h6>Reflect, Dream, Create: Start Writing Your Diary!</h6>
+        <h4>LOGIN INFORMATION:</h4>
+        <form id="loginForm">
+            <div class="form-group" display="flex">
+                <label for="username" id="text">Username:</label>
+                <input type="text" id="username" name="username" required>
+                <label for="email"id="text">Email id:</label>
+                <input type="email" id="email" name="email" required>
+                <label for="password" id="text">Password:</label> 
+                <input type="password" id="password" name="password" required>
+                <button type="button" id="cancel-button">cancel</button>
+                <button type="submit" id="login-button">login</button>
+            </div>   
+        </form>
+        <script src="script.js"></script>
+    </div> 
+</body>
+</html>
